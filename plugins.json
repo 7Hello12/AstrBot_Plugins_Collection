@@ -1,4 +1,10 @@
 {
+  "bilibili_parse": {
+    "desc": "用于解析哔哩哔哩视频,并返回视频信息，以图片格式返回",
+    "author": "功德无量",
+    "repo": "https://github.com/7Hello12/astrbot_plugin_bilibiliParse",
+    "tags": ["功能"]
+  },
   "astrbot_plugin_daily_news": {
     "desc": "[仅 aiocqhttp] anka - 每日60s新闻推送插件, 请先设置推送目标和时间, 详情见github页面!",
     "author": "anka",
